@@ -1,0 +1,43 @@
+Início
+
+Levantar do sofá
+Caminhar até a janela 
+se janela fechada então
+    abrir janela
+fimse
+Caminhar até o banheiro
+se porta fechada então
+    abrir porta
+fimse
+Entrar no banheiro
+Fechar a porta
+Ir até a pia
+Pegar escova de dente
+Pegar pasta de dente
+se pasta de dente fechada então
+    abrir pasta de dente
+fimse
+Colocar pasta de dente na escova de dente
+Fechar pasta de dente
+Escovar os dentes
+Abrir torneira
+Enxaguar a boca
+Lavar escova de dente
+Fechar torneira
+Pegar toalha de rosto
+Secar rosto
+Devolver toalha no lugar
+Guardar escova de dentes
+Guardar pasta de dentes
+Abrir a porta
+Sair do banheiro
+Fechar a porta
+Caminhar até a mesa
+Pegar notebook
+Se notebook descarregado então
+    colocar notebook no carregador
+fimse
+Caminhar até sofá
+Sentar no sofá
+
+Fim
